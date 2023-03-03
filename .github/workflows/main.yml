@@ -2,6 +2,9 @@ name: Verify HTML
 on: 
   pull_request:
     types: [opened, synchronize, closed]
+  push:
+    branches:
+      - gh-pages
 
 jobs:
   build:
