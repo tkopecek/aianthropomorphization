@@ -1,3 +1,5 @@
+[![Verify HTML](https://github.com/tkopecek/aianthropomorphization/actions/workflows/main.yml/badge.svg)](https://github.com/tkopecek/aianthropomorphization/actions/workflows/main.yml)
+
 Anthropomorphization of Artificial Intelligence
 ===============================================
 
